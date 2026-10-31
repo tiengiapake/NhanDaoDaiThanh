@@ -1,0 +1,5 @@
+2026-10-31 13:12:20 | Chương 4 | Thất bại sau 3 lần: Phản hồi API không có nội dung: {'content': [{'text': '', 'type': 'text'}], 'id': 'chatcmpl-7c986ff3bf89447696e45b23e8359', 'model': 'deepseek-v4.1-flash', 'role': 'assistant', 'stop_reason': 'max_tokens', 'type': 'message', 'usage': {'input_tokens': 3110, 'output_tokens': 3739}}
+2026-10-31 13:15:27 | Chương 8 | Thất bại sau 3 lần: HTTP 403: {"error":{"code":"FORBIDDEN","message":"Please subscribe to model in the API Key: deepseek-v4.1-flash","type":"permission_error"}}
+2026-10-31 13:15:27 | Chương 7 | Thất bại sau 3 lần: HTTP 403: {"error":{"code":"FORBIDDEN","message":"Please subscribe to model in the API Key: deepseek-v4.1-flash","type":"permission_error"}}
+2026-10-31 13:15:27 | Chương 9 | Thất bại sau 3 lần: HTTP 403: {"error":{"code":"FORBIDDEN","message":"Please subscribe to model in the API Key: deepseek-v4.1-flash","type":"permission_error"}}
+2026-10-31 13:15:47 | Chương 7 | Thất bại sau 3 lần: HTTP 403: {"error":{"code":"FORBIDDEN","message":"Please subscribe to model in the API Key: deepseek-v4.1-flash","type":"permission_error"}}
